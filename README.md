@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/84461200/130838983-1b41d627-6b8d-4b78-bbb3-54fb69b46f3e.png)
 
-[Home](https://github.com/HaxeFlixel/flixel) | [Ex-mod](https://github.com/HaxeFlixel/flixel-addons) | [Documentation](https://github.com/HaxeFlixel/flixel-ui) | [Updates](https://github.com/HaxeFlixel/flixel-ui) | [Downloads](https://github.com/HaxeFlixel/flixel-ui) | [GitHub Pages](https://github.com/HaxeFlixel/flixel-ui) | [Jeykll Partnership](https://github.com/HaxeFlixel/flixel-ui)
+[Home](https://github.com/HaxeFlixel/flixel) | [Ex-mod](https://kadedevteam.github.io/Pages-ExMod/) | [Documentation](https://kadedevteam.github.io/Documentations/) | [Updates](https://kadedevteam.github.io/flixe-updates/) | [Downloads](https://kadedevteam.github.io/Downloads/) | [GitHub Pages](https://pages.github.com/) | [Jeykll Partnership](https://jekyllrb.com/)
 
 [![CI](https://img.shields.io/github/workflow/status/HaxeFlixel/flixel/CI.svg?logo=github)](https://github.com/HaxeFlixel/flixel/actions?query=workflow%3ACI)
 [![Discord](https://img.shields.io/discord/162395145352904705.svg?logo=discord)](https://discordapp.com/invite/rqEBAgF)
