@@ -1,6 +1,5 @@
-![image](https://user-images.githubusercontent.com/84461200/130838983-1b41d627-6b8d-4b78-bbb3-54fb69b46f3e.png)
-
 [Home](https://github.com/HaxeFlixel/flixel) | [Ex-mod](https://kadedevteam.github.io/Pages-ExMod/) | [Documentation](https://kadedevteam.github.io/Documentations/) | [Updates](https://kadedevteam.github.io/flixe-updates/) | [Downloads](https://kadedevteam.github.io/Downloads/) | [GitHub Pages](https://pages.github.com/) | [Jeykll Partnership](https://jekyllrb.com/)
+
 
 [![CI](https://img.shields.io/github/workflow/status/HaxeFlixel/flixel/CI.svg?logo=github)](https://github.com/HaxeFlixel/flixel/actions?query=workflow%3ACI)
 [![Discord](https://img.shields.io/discord/162395145352904705.svg?logo=discord)](https://discordapp.com/invite/rqEBAgF)
@@ -9,7 +8,13 @@
 [![Haxelib License](https://badgen.net/haxelib/license/flixel)](LICENSE.md)
 [![Patreon](https://img.shields.io/badge/donate-patreon-blue.svg)](https://www.patreon.com/haxeflixel) 
 
+![image](https://user-images.githubusercontent.com/84461200/130838983-1b41d627-6b8d-4b78-bbb3-54fb69b46f3e.png)
+
+# X 
+
 ![image](https://user-images.githubusercontent.com/84461200/130840650-8da1cf5a-64cb-4779-a514-743e3da49023.png)
+
+# 
 
 ## Github Pages
 Github Pages is a program in github that allows you to create pages using the Jekyll Engine! it using .yml, .md, and .html files to build its site!
@@ -25,7 +30,7 @@ Since Github Pages Pro is a github project that means all of you can help! you c
 
 ## Platforms
 
-Pages Pro is availiable on [Windows]() [Lunix]() and [MacOS]()
+Pages Pro is availiable on these Platforms:
 
 ![](images/platforms.png)
 
